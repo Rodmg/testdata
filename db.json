@@ -1,0 +1,23 @@
+{
+  "bsanavbar": {
+    "left": [{ "name": "Scouting.org", "href": "https://scouting.org" }],
+    "right": [
+      {
+        "name": "Join",
+        "href": "#"
+      },
+      {
+        "name": "Shop",
+        "href": "#"
+      },
+      {
+        "name": "Go to scouting",
+        "href": "#"
+      },
+      {
+        "name": "My.Scouting Login",
+        "href": "#"
+      }
+    ]
+  }
+}
